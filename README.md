@@ -28,6 +28,7 @@ You are organizing a dinner party with assigned seats.
 ## `Purpose`
 This lab gives you practice with: 
 * Following problem-solving techniques
+* Using for loops
 * Doing file I/O
 * Storing data in lists
 * Processing a list
